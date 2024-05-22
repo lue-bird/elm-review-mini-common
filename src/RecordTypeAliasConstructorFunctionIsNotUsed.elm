@@ -2,7 +2,7 @@ module RecordTypeAliasConstructorFunctionIsNotUsed exposing (review)
 
 {-|
 
-@docs rule
+@docs review
 
 -}
 
