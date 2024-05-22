@@ -3,7 +3,7 @@
     "name": "lue-bird/elm-review-mini-common",
     "summary": "generally useful reviews for elm-review-mini",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "BindingIsUsed",
         "ImportExposingIsExplicit",
